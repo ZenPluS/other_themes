@@ -1,0 +1,84 @@
+{
+  "format": "orbitkanban-themes",
+  "version": 1,
+  "packs": [
+    {
+      "id": "other",
+      "name": "Other themes",
+      "themes": [
+        {
+          "id": "graphite-2-0",
+          "name": "Graphite 2.0",
+          "background": "#1d2024",
+          "surface": "#292e34",
+          "text": "#e4e8ed",
+          "accent": "#7897b6"
+        },
+        {
+          "id": "graphite-light",
+          "name": "Graphite Light",
+          "background": "#35415c",
+          "surface": "#667797",
+          "text": "#feffff",
+          "accent": "#b3b3b3"
+        },
+        {
+          "id": "sahara",
+          "name": "Sahara",
+          "background": "#613b3f",
+          "surface": "#a16667",
+          "text": "#ffffff",
+          "accent": "#ffffff"
+        },
+        {
+          "id": "stabilo",
+          "name": "Stabilo",
+          "background": "#111117",
+          "surface": "#1c1d23",
+          "text": "#eeeefa",
+          "accent": "#d2e359"
+        },
+        {
+          "id": "catppuccin-macchiato",
+          "name": "Catppuccin Macchiato",
+          "background": "#1e2030",
+          "surface": "#494d64",
+          "text": "#f9f9f9",
+          "accent": "#8aadf4"
+        },
+        {
+          "id": "catppuccino-mocha",
+          "name": "Catppuccino Mocha",
+          "background": "#0c0c13",
+          "surface": "#11111b",
+          "text": "#fffffe",
+          "accent": "#ffb1c4"
+        },
+        {
+          "id": "deep-tide",
+          "name": "Deep Tide",
+          "background": "#00363b",
+          "surface": "#0a334f",
+          "text": "#f9f9f9",
+          "accent": "#8dd2db"
+        },
+        {
+          "id": "gold-miner",
+          "name": "Gold Miner",
+          "background": "#2b3024",
+          "surface": "#393f40",
+          "text": "#ffffff",
+          "accent": "#f3d076"
+        },
+        {
+          "id": "dull",
+          "name": "Dull",
+          "background": "#263334",
+          "surface": "#1a1a1a",
+          "text": "#ffffff",
+          "accent": "#c3c2e2"
+        }
+      ]
+    }
+  ]
+}
